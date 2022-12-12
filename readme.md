@@ -17,6 +17,10 @@ By APK file.
 - Install in your device by APK file
 
 --------
+Demo
+https://user-images.githubusercontent.com/120199963/206956853-f4dd256a-9a6c-411e-9bd4-3c5d9ba9fd9b.mp4
+
+--------
 ### Improvement
 - Make UI look better
 - Integrate with an map api to visualize weather forecast on earth.
@@ -27,6 +31,7 @@ By APK file.
 - MVVM pattern
 - Hilt for Dependency Injection
 - Coroutine
+
 - Navigation
 - LiveData
 - View Binding
