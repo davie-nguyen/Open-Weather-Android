@@ -9,9 +9,9 @@ Current weather in a fast an elegant way
 ------
 ### How to run this project
 By Android studio
-- Connect your device with Android Studio or setup your android emulator.
-- Open this project.
-- Run project and install it.
+- Connect your device via ADB or setup your android emulator.
+- Open this project by Android Studio.
+- Build this project and install it.
 
 By APK file.
 - Install in your device by [`APK file`](https://github.com/davie-nguyen/Open-Weather-Android/blob/master/openweather.apk)
