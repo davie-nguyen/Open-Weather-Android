@@ -14,10 +14,10 @@ By Android studio
 - Run project and install it.
 
 By APK file.
-- Install in your device by APK file [`APK file`](https://github.com/davie-nguyen/Open-Weather-Android/blob/master/openweather.apk)
+- Install in your device by [`APK file`](https://github.com/davie-nguyen/Open-Weather-Android/blob/master/openweather.apk)
 
 --------
-###Demo
+### Demo
 
 https://user-images.githubusercontent.com/120199963/206956853-f4dd256a-9a6c-411e-9bd4-3c5d9ba9fd9b.mp4
 
